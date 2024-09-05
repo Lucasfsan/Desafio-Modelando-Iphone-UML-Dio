@@ -1,7 +1,7 @@
+package multifuncional;
 import musicais.ReprodutorMusical;
 import telefonicos.AparelhoTelefonico;
 import Internet.NavegadorInternet;
-package multifuncional;
 
 
 public class Iphone implements AparelhoTelefonico, ReprodutorMusical, NavegadorInternet {
